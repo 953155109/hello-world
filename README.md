@@ -1,2 +1,1 @@
-# hello-world 
-我是一个编程新手，想通过这个平台磨练自己。
+# hello-world
